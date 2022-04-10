@@ -31,7 +31,7 @@ wa.me/6283113989278 (Owner)
            hydratedButtons: [{
              urlButton: {
                displayText: 'ðŸ“instagram',
-               url: instagram
+               url: https://instagram/jiplonk3dt2
              }
 
            },
